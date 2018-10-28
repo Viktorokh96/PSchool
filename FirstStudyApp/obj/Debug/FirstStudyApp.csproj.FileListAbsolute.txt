@@ -1,0 +1,7 @@
+D:\Local\Projects\ProgrammerSchool\PSchool\FirstStudyApp\bin\Debug\FirstStudyApp.exe.config
+D:\Local\Projects\ProgrammerSchool\PSchool\FirstStudyApp\bin\Debug\FirstStudyApp.exe
+D:\Local\Projects\ProgrammerSchool\PSchool\FirstStudyApp\bin\Debug\FirstStudyApp.pdb
+D:\Local\Projects\ProgrammerSchool\PSchool\FirstStudyApp\obj\Debug\FirstStudyApp.csprojAssemblyReference.cache
+D:\Local\Projects\ProgrammerSchool\PSchool\FirstStudyApp\obj\Debug\FirstStudyApp.csproj.CoreCompileInputs.cache
+D:\Local\Projects\ProgrammerSchool\PSchool\FirstStudyApp\obj\Debug\FirstStudyApp.exe
+D:\Local\Projects\ProgrammerSchool\PSchool\FirstStudyApp\obj\Debug\FirstStudyApp.pdb
